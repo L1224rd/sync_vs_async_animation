@@ -1,4 +1,4 @@
-const a = '▄';
+const a = '■';
 
 if(!process.argv[2]){
   console.log('Arguments: mode, wall, gap, requestsNum, speed');
